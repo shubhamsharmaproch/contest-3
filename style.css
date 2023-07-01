@@ -1,0 +1,47 @@
+.search {
+    width:650px;
+}
+.navbar {
+    position:fixed;
+}
+.image {
+    margin-left:-100px;
+    margin-top: 12px;
+   
+}
+.buy {
+   
+    margin-right: -328px !important;
+    margin-left:-70px !important;
+}
+.list {
+    margin-right:-328px;
+    margin-left:-70px;
+}
+.list-1 {
+    margin-top:-267px;
+}
+footer {
+    margin-top:-267px;
+    margin-right:-70px;
+}
+ .last{
+    margin-right:-328px;
+    margin-left:-125px;
+    width:178%;
+}
+.last button {
+    margin-top:10px;
+}
+.card-body {
+    text-align: center;
+   
+}
+h2 {
+    margin-right:30%;
+    width:50%;
+}
+body {
+    overflow-x: hidden;
+}
+
